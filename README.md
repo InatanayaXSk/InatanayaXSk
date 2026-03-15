@@ -1,57 +1,78 @@
-# Hi there! 👋 I'm Sumadhva Krishna
+````markdown
+<h2 align="left">Hi 👋! My name is Sumadhva Krishna and I'm a Software Developer (AI/ML + Full‑Stack), from India.</h2>
 
-Welcome to my GitHub profile! I'm a passionate developer with expertise in AI/ML, web development, and software engineering.
+###
 
-## 🚀 About Me
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=InatanayaXSk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=InatanayaXSk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
 
-I'm a software developer focused on building innovative solutions using modern technologies. I enjoy working on projects that combine artificial intelligence, machine learning, and web development to solve real-world problems.
+###
 
-## 💻 Tech Stack
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
-**Languages:**
-- Python
-- JavaScript
-- TypeScript
-- HTML/CSS
+###
 
-**Technologies & Tools:**
-- Machine Learning & AI
-- GenAI
-- Data Analysis (Jupyter Notebook)
-- Web Development
-- Edge Detection & Computer Vision
+#### About me
+- Building AI/ML + GenAI products and data-driven web apps
+- Interested in Computer Vision, applied ML, and analytics
+- I enjoy shipping end-to-end projects (model → API → UI)
 
-## 🎯 Notable Projects
+###
 
-### [NyayaSahaya](https://github.com/InatanayaXSk/NyayaSahaya) ⭐
-Your trustworthy AI legal buddy for instant, reliable answers to everyday legal queries
-- **Tech:** Python, AI
+#### Tech stack
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+</div>
 
-### [Rozgaar](https://github.com/InatanayaXSk/Rozgaar) 🏆
-Project which secured 2nd prize in ACM GenAI Hackathon held on 29th Nov, 2024
-- **Tech:** Python, GenAI
+###
 
-### [Inventory Management System using ML](https://github.com/InatanayaXSk/Inventory--management-system-using-machine-learning-)
-Intelligent inventory management system powered by machine learning
-- **Tech:** Python, Machine Learning, Jupyter Notebook
+#### Featured projects
+- **NyayaSahaya** — AI legal buddy for fast, reliable answers to everyday legal queries. *(Python, AI)*
+- **Rozgaar** — ACM GenAI Hackathon (29 Nov 2024) — 2nd prize project. *(Python, GenAI)*
+- **Inventory Management System using ML** — ML-powered inventory intelligence. *(Python, ML, Jupyter)*
+- **Network Traffic Anomaly Detection** — security analytics for anomaly detection. *(Python, ML)*
+- **Smart Sketch Generator** — image-to-sketch conversion using edge detection and CV. *(Python, Computer Vision)*
+- **Civil-El** — web app for civil engineering solutions. *(TypeScript)*
 
-### [Network Traffic Anomaly Detection](https://github.com/InatanayaXSk/Network_traffic_anomaly_detection)
-Network security solution for detecting anomalies in network traffic
-- **Tech:** Python, Machine Learning
+#### Research / analytics projects
+- **f1_aiml** — *Predictive Modeling of Formula 1 Race Outcomes Under Evolving Technical Regulations: A Monte Carlo Framework for the 2026 Regulatory Transition.*
+- **Formula_1_db** — F1 data exploration and analysis. *(Python, Jupyter Notebook)*
+- **H1B_Analysis** — *Impact of the 2025 H-1B Visa Fee Hike on India and Global Economies.* *(Jupyter Notebook, Python)*
 
-### [Smart Sketch Generator](https://github.com/InatanayaXSk/smart_sketch_generator)
-Converts images to sketches using edge detection and AI
-- **Tech:** Python, Computer Vision
+#### Collaborations / team projects
+- **CivicPulse** — civic-tech style project (multi-language stack: Python + TypeScript).
+- **hacknocture-fitconquest** — hackathon-style full-stack app (TypeScript-heavy).
+- **GPS_Based_PDS** — GPS-based system project (Python + JavaScript).
 
-### [Civil-El](https://github.com/InatanayaXSk/Civil--El)
-Web application for civil engineering solutions
-- **Tech:** TypeScript
+> Want me to link each repository title directly (with short one-line descriptions) and keep only the top 6–8 best ones? Tell me which are your “must-show” repos.
 
-## 📫 Contact Me
+###
 
-- **Email:** sukrkrishna@gmail.com
-- **GitHub:** [@InatanayaXSk](https://github.com/InatanayaXSk)
+#### Contact
+<div align="left">
+  <a href="mailto:sukrkrishna@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://github.com/InatanayaXSk">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
+  </a>
+</div>
 
----
+###
 
-💡 *Feel free to explore my repositories and reach out if you'd like to collaborate on interesting projects!*
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+````
