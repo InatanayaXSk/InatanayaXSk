@@ -9,7 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding GIF" />
 
 ###
 
@@ -55,7 +54,6 @@
 - **hacknocture-fitconquest** — hackathon-style full-stack app (TypeScript-heavy).
 - **GPS_Based_PDS** — GPS-based system project (Python + JavaScript).
 
-> Want me to link each repository title directly (with short one-line descriptions) and keep only the top 6–8 best ones? Tell me which are your “must-show” repos.
 
 ###
 
