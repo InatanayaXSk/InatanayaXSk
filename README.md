@@ -71,4 +71,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://i.pinimg.com/736x/47/e0/d1/47e0d1bd67b1eb45d268c7350f6b76ac.jpg" alt="Maxx" />
