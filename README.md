@@ -71,4 +71,4 @@
 
 <br clear="both">
 
-<img src="https://i.pinimg.com/736x/db/07/1b/db071b823508371d69de8e32ead9d8d4.jpg" alt="Maxx" />
+<img src="https://i.pinimg.com/736x/db/07/1b/db071b823508371d69de8e32ead9d8d4.jpg" alt="Maxx" style="width:200px; height:auto;">
