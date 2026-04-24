@@ -9,9 +9,6 @@
 
 ###
 
-
-###
-
 #### About me
 - Building AI/ML + GenAI products and data-driven web apps
 - Interested in Computer Vision, applied ML, and analytics
@@ -53,7 +50,6 @@
 - **CivicPulse** — civic-tech style project (multi-language stack: Python + TypeScript).
 - **hacknocture-fitconquest** — hackathon-style full-stack app (TypeScript-heavy).
 - **GPS_Based_PDS** — GPS-based system project (Python + JavaScript).
-
 
 ###
 
